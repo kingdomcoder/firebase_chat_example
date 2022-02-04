@@ -14,7 +14,7 @@ Future main() async {
 }
 
 class MyApp extends StatelessWidget {
-  static final String title = 'Firebase Chat';
+  static final String title'Firebase Chat' = ;
 
   @override
   Widget build(BuildContext context) => MaterialApp(
